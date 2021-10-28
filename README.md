@@ -1,9 +1,5 @@
 # iusearchlinuxbtw
-i use linux btw [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-i use linux btw [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-i use linux btw [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-i use linux btw [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-i use linux btw [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+i use arch linux btw
 
 # Other shit
 ![stat](https://github-readme-stats.vercel.app/api?username=iusearchlinuxbtw&show_icons=true&theme=radical)
